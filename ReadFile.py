@@ -7,3 +7,5 @@ def readJson():
     # ทำการเรียกข้อมูล age ออกมาแสดง
     print(y["age"])
 readJson()
+
+print("Hello world")
